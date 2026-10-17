@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.2.2",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.2.2/CineSol-0.2.2-win64.zip",
-    "sha256":  "fd5cc36e94a6df923dc1bb68215af3f1d7503adcfb993f2d6447926964831f98",
-    "size":  122175871,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.2.2",
-    "notes":  "Subtitles from OpenSubtitles: found and shown by themselves when a release has none in your language.",
+    "version":  "0.3.0",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.3.0/CineSol-0.3.0-win64.zip",
+    "sha256":  "ab97775b0de83dff2537073c509db9b98334dab077fca969b1811ff87bf1df49",
+    "size":  122267981,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.3.0",
+    "notes":  "A watch history, and an account of your own: sign in with GitHub and your history, list and settings sync to a private repository.",
     "requireAuthenticode":  false
 }
