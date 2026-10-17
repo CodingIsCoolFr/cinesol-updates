@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.3.1",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.3.1/CineSol-0.3.1-win64.zip",
-    "sha256":  "36e66c870d6e24f823bf5252e62887e2c2ea3b41054b7c7ca4cae15c6b411c02",
-    "size":  122268053,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.3.1",
-    "notes":  "Sign in with GitHub works straight away: CineSol now knows its own GitHub app.",
+    "version":  "0.3.2",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.3.2/CineSol-0.3.2-win64.zip",
+    "sha256":  "16bce0cc8b9078bf0cedf68f252513c474e24e36b90a6b6f48741098d65f54f9",
+    "size":  113279979,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.3.2",
+    "notes":  "CineSol has a setup for new computers, and Windows Settings now shows the version CineSol updated to.",
     "requireAuthenticode":  false
 }
