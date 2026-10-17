@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.2.0",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.2.0/CineSol-0.2.0-win64.zip",
-    "sha256":  "9224a778798c6a574946e52079caeefb7c908839a2a983fbc9f2a54912a3ace8",
-    "size":  122153832,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.2.0",
-    "notes":  "CineSol now updates itself, the picture has no black bars, and the ambient light is Anime Solution\u0027s.",
+    "version":  "0.2.1",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.2.1/CineSol-0.2.1-win64.zip",
+    "sha256":  "1ba435097793d1d5cdf01012a5044872559e46da948f7fc50611ecae7f3b00c8",
+    "size":  122157372,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.2.1",
+    "notes":  "Discover scrolls on for as long as there is more, and every Home row has See all.",
     "requireAuthenticode":  false
 }
