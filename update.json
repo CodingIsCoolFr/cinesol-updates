@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.2.1",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.2.1/CineSol-0.2.1-win64.zip",
-    "sha256":  "1ba435097793d1d5cdf01012a5044872559e46da948f7fc50611ecae7f3b00c8",
-    "size":  122157372,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.2.1",
-    "notes":  "Discover scrolls on for as long as there is more, and every Home row has See all.",
+    "version":  "0.2.2",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/download/v0.2.2/CineSol-0.2.2-win64.zip",
+    "sha256":  "fd5cc36e94a6df923dc1bb68215af3f1d7503adcfb993f2d6447926964831f98",
+    "size":  122175871,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/cinesol-updates/releases/tag/v0.2.2",
+    "notes":  "Subtitles from OpenSubtitles: found and shown by themselves when a release has none in your language.",
     "requireAuthenticode":  false
 }
